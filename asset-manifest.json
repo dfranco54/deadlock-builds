@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deadlock-builds/static/css/main.e6c13ad2.css",
+    "main.js": "/deadlock-builds/static/js/main.a0e0facd.js",
+    "index.html": "/deadlock-builds/index.html",
+    "main.e6c13ad2.css.map": "/deadlock-builds/static/css/main.e6c13ad2.css.map",
+    "main.a0e0facd.js.map": "/deadlock-builds/static/js/main.a0e0facd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a0e0facd.js"
+  ]
+}
